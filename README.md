@@ -1,2 +1,2 @@
 # paint
-paintmenori.netlify.app
+#paintmenori.netlify.app
